@@ -30,7 +30,7 @@
     <div style="width: 40%; float: left; margin-left: 2%;">
         <jsp:include page="all_table.jsp"/>
     </div>
-    <div style="float: left; margin-left: 5%;">
+    <div style="float: left; margin-left: 2%;">
         <canvas id="canvas"></canvas>
     </div>
     <div style="float: left; margin-left: 5%;">
